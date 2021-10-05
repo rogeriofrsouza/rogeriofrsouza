@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @rogeriofrsouza;
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas (2º ciclo) na Fatec Itapetininga;
-- 💞️ Participo de cursos e formações online do @Curso em Vídeo @Digital Innovation One;
+- 💞️ Participo de cursos e formações online do @Curso em Vídeo;
 - 📫 https://www.linkedin.com/in/rog%C3%A9rio-ferreira-de-souza-556a13127/
 
 <!---
