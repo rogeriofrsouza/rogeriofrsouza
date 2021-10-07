@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Rogério Ferreira
+## 👋 Olá! Eu sou o Rogério Ferreira!
 
 - 🌱 Estudando ADS (2º ciclo) na Fatec Itapetininga e Web Development Front-End
 - 💞️ Participo de formações online da plataforma [Curso em Vídeo](https://www.cursoemvideo.com/)
