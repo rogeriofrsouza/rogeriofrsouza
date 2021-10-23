@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Rogério Ferreira!
 
 - 🌱 Estudante de Web Development front-end
-- 📚 Fatec Itapetininga - 2º Ciclo
+- 📚 Fatec Itapetininga - ADS 2º Ciclo
 - 🖥️ Participo de formações online da plataforma [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 <!---GitHub Stats: https://github.com/anuraghazra/github-readme-stats--->
