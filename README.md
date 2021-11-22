@@ -2,7 +2,7 @@
 
 - 🌱 Web Development Student
 - 📚 Fatec Itapetininga - System Analysis and Development 2º Year
-- 🖥️ Online learning platforms that I use: [Rocketseat](https://www.rocketseat.com.br) and [Curso em Vídeo](https://www.cursoemvideo.com/)
+- 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490) and [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/)
 
 <!---GitHub Stats: https://github.com/anuraghazra/github-readme-stats--->
 <div align="center">
