@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou o Rogério Ferreira!
 
-- 🌱 Estudante de Web Development
-- 📚 Fatec Itapetininga - ADS 2º Ciclo
-- 🖥️ Participo de formações online das plataformas: [Rocketseat](https://www.rocketseat.com.br) e [Curso em Vídeo](https://www.cursoemvideo.com/)
+- 🌱 Web Development Student
+- 📚 Fatec Itapetininga - ADS 2º Year
+- 🖥️ I participate in online training on platforms: [Rocketseat](https://www.rocketseat.com.br) and [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 <!---GitHub Stats: https://github.com/anuraghazra/github-readme-stats--->
 <div align="center">
