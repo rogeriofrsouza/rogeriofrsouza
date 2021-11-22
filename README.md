@@ -2,7 +2,7 @@
 
 - 🌱 Web Development Student
 - 📚 Fatec Itapetininga - System Analysis and Development 2º Year
-- 🖥️ I participate in online training on platforms: [Rocketseat](https://www.rocketseat.com.br) and [Curso em Vídeo](https://www.cursoemvideo.com/)
+- 🖥️ Online learning platforms that I use: [Rocketseat](https://www.rocketseat.com.br) and [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 <!---GitHub Stats: https://github.com/anuraghazra/github-readme-stats--->
 <div align="center">
