@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Rogério Ferreira!
+## 👋 Hello! I'm Rogério Ferreira!
 
 - 🌱 Web Development Student
 - 📚 Fatec Itapetininga - ADS 2º Year
