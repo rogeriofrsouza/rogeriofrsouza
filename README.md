@@ -1,9 +1,10 @@
 ## 👋 Hello! I'm Rogério Ferreira!
 
-- 🌱 Web Development Student
-- 📚 Fatec Itapetininga - System Analysis and Development 2º sem
-- 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490) and [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/)
+- 🌱 Software Development Student
+- 📚 Fatec Itapetininga - System Analysis and Development 3º sem
+- 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490), [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/) and [Udemy](https://www.udemy.com/)
 
+<br>
 <!---GitHub Stats: https://github.com/anuraghazra/github-readme-stats--->
 <div align="center">
   <a href="https://github.com/rogeriofrsouza">
@@ -11,12 +12,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriofrsouza&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br/>
-  
+ 
   <!---Technology icons: https://devicon.dev/--->
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
   <!---Gif: https://picrew.me/image_maker/338224
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 --->
