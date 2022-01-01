@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Rogério Ferreira!
 
-- 🌱 Software Development Student
+- 🌱 Software Development Intern at [Itix](https://www.itixti.com.br/)
 - 📚 Fatec Itapetininga - System Analysis and Development 3º sem
 - 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490), [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/) and [Udemy](https://www.udemy.com/)
 
