@@ -1,8 +1,11 @@
 ## 👾 Hello! I'm Rogério Ferreira!
 
 - 🌱 Software Development Intern at [Itix](https://www.itixti.com.br/)
-- 📚 Fatec Itapetininga - System Analysis and Development 3º sem
+- 📚 [Fatec Itapetininga](https://fatecitapetininga.edu.br/) - System Analysis and Development 3º sem
 - 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490), [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/) and [Udemy](https://www.udemy.com/)
+- 🎶 Fun fact: I'm a musician
+- 🕹️ Favorite hobby: playing games
+
 <br>
 
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
@@ -21,6 +24,9 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 
   <!-- Gif: https://picrew.me/image_maker/338224
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
