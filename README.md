@@ -1,9 +1,9 @@
 ## 👾 Hello! I'm Rogério Ferreira!
 
-- 🌱 Front-end Developer Jr
-- 📚 [Fatec Itu](https://fatecitu.edu.br/portal/) - System Analysis and Development 3º sem
-- 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490), [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/) and [Udemy](https://www.udemy.com/)
-- 🎶 Fun fact: I'm a musician
+- 🌱 Front-end Developer;
+- 📚 [Fatec Itu](https://fatecitu.edu.br/portal/) - System Analysis and Development 3º sem;
+- 🖥️ Online learning platforms that I use: [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490), [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/) and [Udemy](https://www.udemy.com/);
+- 🎶 Fun fact: I'm a musician;
 
 <br>
 
