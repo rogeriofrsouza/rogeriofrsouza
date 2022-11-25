@@ -1,8 +1,8 @@
 ## 👾 Hello! I'm Rogério Ferreira!
 
-- 🌱 Front-end Developer;
-- 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development 4/6;
-- 🖥️ Online learning platforms that I use: [Udemy](https://www.udemy.com/), [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490) and [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/);
+- 🌱 Full Stack Developer;
+- 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development;
+- 🖥️ Online learning platforms I use: [Udemy](https://www.udemy.com/user/rogerio-ferreira-de-souza-5/), [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490) and [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/);
 - 🎶 Fun fact: I'm a musician;
 
 <br />
@@ -22,14 +22,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Angular" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Bootstrap" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Angular" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Bootstrap" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="C#" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />        
 
   <!-- Gif: https://picrew.me/image_maker/338224
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676" />
   -->
 </div>
-  
+
 ##
 
 <!-- Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
