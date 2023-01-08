@@ -1,6 +1,5 @@
 ## 👾 Hello! I'm Rogério Ferreira!
 
-- 🌱 Full Stack Developer;
 - 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development;
 - 🖥️ Online learning platforms I use: [Udemy](https://www.udemy.com/user/rogerio-ferreira-de-souza-5/), [Rocketseat](https://app.rocketseat.com.br/me/rogerio-ferreira-de-souza-07490) and [Curso em Vídeo](https://www.cursoemvideo.com/blog/hall-da-fama/rogerio-ferreira-de-souza/);
 - 🎶 Fun fact: I'm a musician;
