@@ -1,7 +1,7 @@
 ## 👾 Hello! I'm Rogério Ferreira!
 
 - 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development;
-- 🖥️ Currently working through the awesome [Teach Yourself Computer Science](https://teachyourselfcs.com/);
+- 🖥️ Currently working through online courses and books;
 - 🎶 Fun fact: I'm a musician;
 
 <br />
