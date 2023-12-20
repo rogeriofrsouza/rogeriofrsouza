@@ -1,4 +1,4 @@
-## 👾 Hello! I'm Rogério Ferreira!
+## 👾 Hello! I'm Rogério Ferreira de Souza!
 
 - 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development;
 - 🖥️ Currently working through online courses and books;
@@ -17,18 +17,14 @@
 
 <!-- Technology icons: https://devicon.dev/ -->
 <div style="display: inline-block">
+  <img align="center" alt="Java" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Angular" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Angular" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Bootstrap" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Java" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />            
-
-  <!-- Gif: https://picrew.me/image_maker/338224
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676" />
-  -->
 </div>
 
 ##
@@ -42,11 +38,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" />
   </a> 
 </div>
-<br />
+<br /><br />
   
-<!---Profile Counter--->
+<!-- Profile Counter -->
 <div align="center">
-  <br />
   <img src="https://img.shields.io/github/followers/rogeriofrsouza.svg?style=social&label=Follow&maxAge=2592000" alt="followers" style="height:22px" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/rogeriofrsouza?style=social" alt="stars" style="height:22px" />
