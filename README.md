@@ -1,7 +1,7 @@
 ## 👾 Hello! I'm Rogério Ferreira de Souza!
 
 - 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development;
-- 🖥️ Currently working through documentations and books;
+- 🖥️ Software Engineer. Working through the world of Computer Science;
 - 🎶 Fun fact: I'm a musician;
 
 <br />
