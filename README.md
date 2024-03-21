@@ -6,7 +6,7 @@
 
 <br />
 
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub stats: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/rogeriofrsouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriofrsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -19,7 +19,7 @@
 <div style="display: inline-block">
   <img align="center" alt="Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="MySQL" height="36" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MariaDB" height="36" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
   <img align="center" alt="Docker" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Angular" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -41,11 +41,11 @@
 </div>
 <br /><br />
   
-<!-- Profile Counter -->
+<!-- Profile counter -->
 <div align="center">
-  <img src="https://img.shields.io/github/followers/rogeriofrsouza.svg?style=social&label=Follow&maxAge=2592000" alt="followers" style="height:22px" />
+  <img src="https://img.shields.io/github/followers/rogeriofrsouza.svg?style=social&label=Follow&maxAge=2592000" alt="followers" height="24" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/rogeriofrsouza?style=social" alt="stars" style="height:22px" />
+  <img src="https://img.shields.io/github/stars/rogeriofrsouza?style=social" alt="stars" height="24" />
 </div>
   
 <!---
