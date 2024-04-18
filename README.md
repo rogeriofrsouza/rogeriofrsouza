@@ -15,7 +15,7 @@
 </div>
 <br /><br />
 
-<!-- Technology icons: https://devicon.dev/ -->
+<!-- Technology icons: https://devicon.dev/ 
 <div style="display: inline-block">
   <img align="center" alt="Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -27,7 +27,7 @@
   <img align="center" alt="Neovim" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" />
   <img align="center" alt="Lua" height="36" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </div>
-
+-->
 ##
 
 <!-- Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
