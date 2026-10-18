@@ -1,6 +1,6 @@
 ## 👾 Hello!
 
-- 📚 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/) - System Analysis and Development;
+- 📚 System Analysis and Development;
 - 🖥️ Software Engineer. Working through the world of Computer Science;
 - 🎶 Fun fact: I'm a musician;
 
