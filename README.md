@@ -4,7 +4,6 @@
 - 🖥️ Software Engineer. Working through the world of Computer Science;
 - 🎶 Fun fact: I'm a musician;
 
----
 <!-- Technology icons: https://devicon.dev/ 
 <div style="display: inline-block">
   <img align="center" alt="Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
